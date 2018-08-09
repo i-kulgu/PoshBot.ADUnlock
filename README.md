@@ -14,8 +14,8 @@ User has to be in group 'unlock' to use the command
 
 There are several possibilities:
 
-!ul <username>
+!ul "username"
   
-!unlock <username>
+!unlock "username"
   
-!Invoke-ADUnlock <username>
+!Invoke-ADUnlock "username"
