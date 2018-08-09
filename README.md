@@ -6,6 +6,8 @@ PoshBot plugin to unlock AD user account
 
 !ip PoshBot.ADUnlock
 
+You need ActiveDirectory module to get this working.
+
 # Permissions
 
 User has to be in group 'unlock' to use the command
