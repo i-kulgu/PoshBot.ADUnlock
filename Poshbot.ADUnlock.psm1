@@ -1,3 +1,5 @@
+Import-Module ActiveDirectory
+
 function Invoke-ADUnlock {
     <#
     .SYNOPSIS
